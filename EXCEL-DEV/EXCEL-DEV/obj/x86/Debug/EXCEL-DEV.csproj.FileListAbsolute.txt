@@ -1,0 +1,8 @@
+D:\zhxi\戴特实验室\EXCEL-DEV\EXCEL-DEV\bin\Debug\EXCEL-DEV.exe
+D:\zhxi\戴特实验室\EXCEL-DEV\EXCEL-DEV\bin\Debug\EXCEL-DEV.pdb
+D:\zhxi\戴特实验室\EXCEL-DEV\EXCEL-DEV\obj\x86\Debug\EXCEL_DEV.Form1.resources
+D:\zhxi\戴特实验室\EXCEL-DEV\EXCEL-DEV\obj\x86\Debug\EXCEL_DEV.Properties.Resources.resources
+D:\zhxi\戴特实验室\EXCEL-DEV\EXCEL-DEV\obj\x86\Debug\EXCEL-DEV.csproj.GenerateResource.Cache
+D:\zhxi\戴特实验室\EXCEL-DEV\EXCEL-DEV\obj\x86\Debug\EXCEL-DEV.exe.licenses
+D:\zhxi\戴特实验室\EXCEL-DEV\EXCEL-DEV\obj\x86\Debug\EXCEL-DEV.exe
+D:\zhxi\戴特实验室\EXCEL-DEV\EXCEL-DEV\obj\x86\Debug\EXCEL-DEV.pdb
